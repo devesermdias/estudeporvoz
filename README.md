@@ -25,3 +25,13 @@ Permitir que o usuário fale em qualquer idioma e receba uma resposta inteligent
 ---
 
 ## 📁 Estrutura do Projeto
+app/
+├── main.py
+├── config.py
+├── services/
+├── audio/
+└── utils/
+
+data/
+├── input/
+└── output/
